@@ -4,7 +4,7 @@
 
   <br><br>
 
-  <h1>☁️ Elysia Aesthetic Font ✨</h1>
+  <h1>☁️ Elysia Aesthetic Font</h1>
 
   <p>
     <strong>Ubah teks biasa menjadi gaya font aesthetic yang unik & lucu!</strong>
