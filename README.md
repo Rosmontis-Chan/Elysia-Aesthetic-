@@ -64,7 +64,7 @@ Project ini dibuat murni menggunakan teknologi web dasar (Native/Vanilla) tanpa 
 
 Lihat website yang sudah online disini:
 <br>
-👉 **[https://elysia-aesthetic.vercel.app/]** 👈
+**[https://elysia-aesthetic.vercel.app/]** 
 
 ---
 
