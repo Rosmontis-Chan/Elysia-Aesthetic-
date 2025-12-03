@@ -71,4 +71,4 @@ Lihat website yang sudah online disini:
 ## 📘 Credits
 
 **Rosmontis-Chan**.
-Jangan lupa kasih ⭐ **Star** di repo ini kalau kamu suka!
+Jangan lupa kasih ⭐ **Star** 
