@@ -68,7 +68,7 @@ Lihat website yang sudah online disini:
 
 ---
 
-## 💖 Credits
+## 📘 Credits
 
 **Rosmontis-Chan**.
 Jangan lupa kasih ⭐ **Star** di repo ini kalau kamu suka!
