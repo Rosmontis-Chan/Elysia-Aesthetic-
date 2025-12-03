@@ -71,4 +71,4 @@ Lihat website yang sudah online disini:
 ## 📘 Credits
 
 **Rosmontis-Chan**.
-Jangan lupa kasih ⭐ **Star** 
+Jangan lupa kasih ⭐ **Star** kalau kamu suka Aesthetic ini. (✿≧▽≦✿)
